@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Meme Maker AI",
-  description: "Type anything, get a meme. AI-powered meme generator.",
+  title: "Billing Designer",
+  description: "Describe your product — get a complete pricing model designed for it",
 };
 
 export default function RootLayout({
